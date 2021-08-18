@@ -1,4 +1,4 @@
-# Image-classification---emotion
+# Image-classification-gender
 ## Description
 #### Crop된 얼굴의 감정을 판단하는 네트워크를 개발하는 Task
 
